@@ -16,5 +16,6 @@ return require('packer').startup(function(use)
   use ('nvim-treesitter/playground')
   use ("rebelot/kanagawa.nvim")
   use ("vim-airline/vim-airline")
+  use ( "ellisonleao/gruvbox.nvim" )
   end)
 
